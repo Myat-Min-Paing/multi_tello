@@ -1,0 +1,9628 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967082
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.975523
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.990718
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007383
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020439
+end_time: None
+duration: None
+
+id: 5
+command: command
+response: None
+start time: 2023-11-24 13:02:33.034831
+end_time: None
+duration: None
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967126
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.975727
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.990937
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007559
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020604
+end_time: None
+duration: None
+
+id: 5
+command: command
+response: None
+start time: 2023-11-24 13:02:33.035058
+end_time: None
+duration: None
+
+------
+Drone: 3
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967150
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.975800
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991006
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007599
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020669
+end_time: None
+duration: None
+
+------
+Drone: 4
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967163
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.975866
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991142
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007632
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020729
+end_time: None
+duration: None
+
+------
+Drone: 5
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967176
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.975934
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991314
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007683
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020785
+end_time: None
+duration: None
+
+------
+Drone: 6
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967187
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.975994
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991420
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007738
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020841
+end_time: None
+duration: None
+
+------
+Drone: 7
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967197
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976054
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991506
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007779
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020898
+end_time: None
+duration: None
+
+------
+Drone: 8
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967209
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976115
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991599
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007817
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.020965
+end_time: None
+duration: None
+
+------
+Drone: 9
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967220
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976179
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991802
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007853
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021027
+end_time: None
+duration: None
+
+------
+Drone: 10
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967230
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976245
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991873
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007892
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021086
+end_time: None
+duration: None
+
+------
+Drone: 11
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967242
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976303
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991936
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007933
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021151
+end_time: None
+duration: None
+
+------
+Drone: 12
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967252
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976364
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.991994
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.007974
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021211
+end_time: None
+duration: None
+
+------
+Drone: 13
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967264
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976421
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992054
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008016
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021274
+end_time: None
+duration: None
+
+------
+Drone: 14
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967275
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976480
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992113
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008053
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021331
+end_time: None
+duration: None
+
+------
+Drone: 15
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967286
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976539
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992173
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008093
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021391
+end_time: None
+duration: None
+
+------
+Drone: 16
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967298
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976606
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992239
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008130
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021449
+end_time: None
+duration: None
+
+------
+Drone: 17
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967308
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976677
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992300
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008173
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021508
+end_time: None
+duration: None
+
+------
+Drone: 18
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967318
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976748
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992383
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008217
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021566
+end_time: None
+duration: None
+
+------
+Drone: 19
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967329
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976812
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992443
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008255
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021625
+end_time: None
+duration: None
+
+------
+Drone: 20
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967339
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976873
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992505
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008292
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021687
+end_time: None
+duration: None
+
+------
+Drone: 21
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967350
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976934
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992565
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008334
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021746
+end_time: None
+duration: None
+
+------
+Drone: 22
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967365
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.976996
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992654
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008374
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021802
+end_time: None
+duration: None
+
+------
+Drone: 23
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967378
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977057
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992715
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008414
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021859
+end_time: None
+duration: None
+
+------
+Drone: 24
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967387
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977114
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992775
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008450
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021914
+end_time: None
+duration: None
+
+------
+Drone: 25
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967402
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977182
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992844
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008488
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.021969
+end_time: None
+duration: None
+
+------
+Drone: 26
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967410
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977240
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992899
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008522
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022024
+end_time: None
+duration: None
+
+------
+Drone: 27
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967421
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977307
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.992955
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008561
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022079
+end_time: None
+duration: None
+
+------
+Drone: 28
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967430
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977357
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993022
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008597
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022133
+end_time: None
+duration: None
+
+------
+Drone: 29
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967439
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977396
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993079
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008637
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022200
+end_time: None
+duration: None
+
+------
+Drone: 30
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967449
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977440
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993137
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008674
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022266
+end_time: None
+duration: None
+
+------
+Drone: 31
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967459
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977483
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993195
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008712
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022334
+end_time: None
+duration: None
+
+------
+Drone: 32
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967469
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977527
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993254
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008749
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022383
+end_time: None
+duration: None
+
+------
+Drone: 33
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967480
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977586
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993314
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008788
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022430
+end_time: None
+duration: None
+
+------
+Drone: 34
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967494
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977631
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993374
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008824
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022476
+end_time: None
+duration: None
+
+------
+Drone: 35
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967504
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977677
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993430
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008861
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022518
+end_time: None
+duration: None
+
+------
+Drone: 36
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967513
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977722
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993484
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008899
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022563
+end_time: None
+duration: None
+
+------
+Drone: 37
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967525
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977767
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993537
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008937
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022610
+end_time: None
+duration: None
+
+------
+Drone: 38
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967540
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977810
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993588
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.008979
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022653
+end_time: None
+duration: None
+
+------
+Drone: 39
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967551
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977884
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993629
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009015
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022698
+end_time: None
+duration: None
+
+------
+Drone: 40
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967562
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.977958
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993673
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009052
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022752
+end_time: None
+duration: None
+
+------
+Drone: 41
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967578
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978008
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993717
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009088
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022795
+end_time: None
+duration: None
+
+------
+Drone: 42
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967590
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978053
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993759
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009133
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022840
+end_time: None
+duration: None
+
+------
+Drone: 43
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967604
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978095
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993803
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009168
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022889
+end_time: None
+duration: None
+
+------
+Drone: 44
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967612
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978136
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993848
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009204
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.022979
+end_time: None
+duration: None
+
+------
+Drone: 45
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967623
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978180
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993892
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009241
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023028
+end_time: None
+duration: None
+
+------
+Drone: 46
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967636
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978225
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993934
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009281
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023071
+end_time: None
+duration: None
+
+------
+Drone: 47
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967648
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978268
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.993978
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009321
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023114
+end_time: None
+duration: None
+
+------
+Drone: 48
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967658
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978312
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994025
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009358
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023153
+end_time: None
+duration: None
+
+------
+Drone: 49
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967674
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978360
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994070
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009398
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023199
+end_time: None
+duration: None
+
+------
+Drone: 50
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967682
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978403
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994111
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009433
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023253
+end_time: None
+duration: None
+
+------
+Drone: 51
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967693
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978447
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994154
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009467
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023294
+end_time: None
+duration: None
+
+------
+Drone: 52
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967703
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978496
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994200
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009506
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023335
+end_time: None
+duration: None
+
+------
+Drone: 53
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967716
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978538
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994262
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009541
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023377
+end_time: None
+duration: None
+
+------
+Drone: 54
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967727
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978578
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994306
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009583
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023420
+end_time: None
+duration: None
+
+------
+Drone: 55
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967741
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978620
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994352
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009621
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023462
+end_time: None
+duration: None
+
+------
+Drone: 56
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967751
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978688
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994393
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009657
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023506
+end_time: None
+duration: None
+
+------
+Drone: 57
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967761
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978732
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994437
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009694
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023549
+end_time: None
+duration: None
+
+------
+Drone: 58
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967771
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978777
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994482
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009731
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023591
+end_time: None
+duration: None
+
+------
+Drone: 59
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967782
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978820
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994523
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009765
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023629
+end_time: None
+duration: None
+
+------
+Drone: 60
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967792
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978862
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994566
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009800
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023671
+end_time: None
+duration: None
+
+------
+Drone: 61
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967807
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978903
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994609
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009848
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023712
+end_time: None
+duration: None
+
+------
+Drone: 62
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967817
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978946
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994651
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009885
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023756
+end_time: None
+duration: None
+
+------
+Drone: 63
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967828
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.978989
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994693
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009921
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023798
+end_time: None
+duration: None
+
+------
+Drone: 64
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967844
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979032
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994738
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.009960
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023875
+end_time: None
+duration: None
+
+------
+Drone: 65
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967853
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979077
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994786
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010003
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023921
+end_time: None
+duration: None
+
+------
+Drone: 66
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967864
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979121
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994827
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010039
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.023975
+end_time: None
+duration: None
+
+------
+Drone: 67
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967875
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979168
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994871
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010075
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024017
+end_time: None
+duration: None
+
+------
+Drone: 68
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967887
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979272
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994915
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010111
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024059
+end_time: None
+duration: None
+
+------
+Drone: 69
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967898
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979345
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994958
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010148
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024102
+end_time: None
+duration: None
+
+------
+Drone: 70
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967913
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979379
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.994999
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010181
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024154
+end_time: None
+duration: None
+
+------
+Drone: 71
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967929
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979414
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995040
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010219
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024208
+end_time: None
+duration: None
+
+------
+Drone: 72
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967940
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979446
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995081
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010256
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024254
+end_time: None
+duration: None
+
+------
+Drone: 73
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967950
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979478
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995120
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010295
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024295
+end_time: None
+duration: None
+
+------
+Drone: 74
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967963
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979510
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995159
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010331
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024334
+end_time: None
+duration: None
+
+------
+Drone: 75
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967975
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979544
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995198
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010367
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024372
+end_time: None
+duration: None
+
+------
+Drone: 76
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967985
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979577
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995237
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010403
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024469
+end_time: None
+duration: None
+
+------
+Drone: 77
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.967997
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979609
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995275
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010439
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024503
+end_time: None
+duration: None
+
+------
+Drone: 78
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968009
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979641
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995314
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010476
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024535
+end_time: None
+duration: None
+
+------
+Drone: 79
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968026
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979674
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995353
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010512
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024565
+end_time: None
+duration: None
+
+------
+Drone: 80
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968037
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979705
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995388
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010547
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024595
+end_time: None
+duration: None
+
+------
+Drone: 81
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968048
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979741
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995422
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010586
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024627
+end_time: None
+duration: None
+
+------
+Drone: 82
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968064
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979774
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995454
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010625
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024656
+end_time: None
+duration: None
+
+------
+Drone: 83
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968075
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979808
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995484
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010662
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024691
+end_time: None
+duration: None
+
+------
+Drone: 84
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968092
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979839
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995515
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010753
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024724
+end_time: None
+duration: None
+
+------
+Drone: 85
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968103
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979871
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995546
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010902
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024754
+end_time: None
+duration: None
+
+------
+Drone: 86
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968126
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979903
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995577
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010951
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024785
+end_time: None
+duration: None
+
+------
+Drone: 87
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968149
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979936
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995608
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.010989
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024815
+end_time: None
+duration: None
+
+------
+Drone: 88
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968162
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.979984
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995639
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011022
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024844
+end_time: None
+duration: None
+
+------
+Drone: 89
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968175
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980055
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995670
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011058
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024874
+end_time: None
+duration: None
+
+------
+Drone: 90
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968189
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980120
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995701
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011088
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024904
+end_time: None
+duration: None
+
+------
+Drone: 91
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968206
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980304
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995732
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011119
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024934
+end_time: None
+duration: None
+
+------
+Drone: 92
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968218
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980598
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995763
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011151
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024966
+end_time: None
+duration: None
+
+------
+Drone: 93
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968230
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980666
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995795
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011182
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.024996
+end_time: None
+duration: None
+
+------
+Drone: 94
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968243
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980718
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995825
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011212
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025026
+end_time: None
+duration: None
+
+------
+Drone: 95
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968256
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980762
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995858
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011245
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025056
+end_time: None
+duration: None
+
+------
+Drone: 96
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968267
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980802
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995891
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011273
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025086
+end_time: None
+duration: None
+
+------
+Drone: 97
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968338
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980835
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995922
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011304
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025179
+end_time: None
+duration: None
+
+------
+Drone: 98
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968348
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980866
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995953
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011334
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025219
+end_time: None
+duration: None
+
+------
+Drone: 99
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968360
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980923
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.995998
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011365
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025251
+end_time: None
+duration: None
+
+------
+Drone: 100
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968369
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.980981
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996043
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011394
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025282
+end_time: None
+duration: None
+
+------
+Drone: 101
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968381
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981016
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996094
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011425
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025314
+end_time: None
+duration: None
+
+------
+Drone: 102
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968391
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981108
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996130
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011456
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025344
+end_time: None
+duration: None
+
+------
+Drone: 103
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968401
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981512
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996161
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011487
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025374
+end_time: None
+duration: None
+
+------
+Drone: 104
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968413
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981585
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996192
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011516
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025404
+end_time: None
+duration: None
+
+------
+Drone: 105
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968425
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981612
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996223
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011545
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025435
+end_time: None
+duration: None
+
+------
+Drone: 106
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968438
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981639
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996256
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011575
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025465
+end_time: None
+duration: None
+
+------
+Drone: 107
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968451
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981666
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996287
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011605
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025496
+end_time: None
+duration: None
+
+------
+Drone: 108
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968467
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981692
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996317
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011636
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025526
+end_time: None
+duration: None
+
+------
+Drone: 109
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968477
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981722
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996348
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011666
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025557
+end_time: None
+duration: None
+
+------
+Drone: 110
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968489
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981749
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996381
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011695
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025588
+end_time: None
+duration: None
+
+------
+Drone: 111
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968501
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981775
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996411
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011723
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025617
+end_time: None
+duration: None
+
+------
+Drone: 112
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968511
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981801
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996442
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011753
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025648
+end_time: None
+duration: None
+
+------
+Drone: 113
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968525
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981827
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996474
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011793
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025680
+end_time: None
+duration: None
+
+------
+Drone: 114
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968535
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981854
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996505
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011821
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025711
+end_time: None
+duration: None
+
+------
+Drone: 115
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968546
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981879
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996535
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011851
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025741
+end_time: None
+duration: None
+
+------
+Drone: 116
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968557
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981905
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996565
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011877
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025771
+end_time: None
+duration: None
+
+------
+Drone: 117
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968572
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981959
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996596
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011903
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025801
+end_time: None
+duration: None
+
+------
+Drone: 118
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968584
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.981984
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996630
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011928
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025830
+end_time: None
+duration: None
+
+------
+Drone: 119
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968598
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982009
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996660
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011957
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025860
+end_time: None
+duration: None
+
+------
+Drone: 120
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968615
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982035
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996690
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.011986
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025890
+end_time: None
+duration: None
+
+------
+Drone: 121
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968626
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982061
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996721
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012014
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025921
+end_time: None
+duration: None
+
+------
+Drone: 122
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968639
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982086
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996753
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012042
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025951
+end_time: None
+duration: None
+
+------
+Drone: 123
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968651
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982113
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996832
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012070
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.025981
+end_time: None
+duration: None
+
+------
+Drone: 124
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968663
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982139
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996868
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012098
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026012
+end_time: None
+duration: None
+
+------
+Drone: 125
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968676
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982164
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996901
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012126
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026043
+end_time: None
+duration: None
+
+------
+Drone: 126
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968688
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982189
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996933
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012153
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026077
+end_time: None
+duration: None
+
+------
+Drone: 127
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968699
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982215
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996963
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012180
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026108
+end_time: None
+duration: None
+
+------
+Drone: 128
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968711
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982241
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.996993
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012209
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026138
+end_time: None
+duration: None
+
+------
+Drone: 129
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968722
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982271
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997026
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012238
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026171
+end_time: None
+duration: None
+
+------
+Drone: 130
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968738
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982297
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997057
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012266
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026202
+end_time: None
+duration: None
+
+------
+Drone: 131
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968751
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982321
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997086
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012293
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026235
+end_time: None
+duration: None
+
+------
+Drone: 132
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968764
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982346
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997116
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012321
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026292
+end_time: None
+duration: None
+
+------
+Drone: 133
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968778
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982376
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997146
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012350
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026349
+end_time: None
+duration: None
+
+------
+Drone: 134
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968793
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982405
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997176
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012380
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026379
+end_time: None
+duration: None
+
+------
+Drone: 135
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968805
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982430
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997208
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012409
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026410
+end_time: None
+duration: None
+
+------
+Drone: 136
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968817
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982456
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997238
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012437
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026445
+end_time: None
+duration: None
+
+------
+Drone: 137
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968828
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982482
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997271
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012468
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026472
+end_time: None
+duration: None
+
+------
+Drone: 138
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968843
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982513
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997307
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012503
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026502
+end_time: None
+duration: None
+
+------
+Drone: 139
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968854
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982539
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997336
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012532
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026529
+end_time: None
+duration: None
+
+------
+Drone: 140
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968867
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982597
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997367
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012562
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026556
+end_time: None
+duration: None
+
+------
+Drone: 141
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968878
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982625
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997399
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012592
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026584
+end_time: None
+duration: None
+
+------
+Drone: 142
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968893
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982654
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997427
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012624
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026611
+end_time: None
+duration: None
+
+------
+Drone: 143
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968906
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982682
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997453
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012656
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026639
+end_time: None
+duration: None
+
+------
+Drone: 144
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968920
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982709
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997481
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012685
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026669
+end_time: None
+duration: None
+
+------
+Drone: 145
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968931
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982735
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997508
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012722
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026695
+end_time: None
+duration: None
+
+------
+Drone: 146
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968944
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982763
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997536
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012750
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026724
+end_time: None
+duration: None
+
+------
+Drone: 147
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968954
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982789
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997563
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012781
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026750
+end_time: None
+duration: None
+
+------
+Drone: 148
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968966
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982817
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997589
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012809
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026777
+end_time: None
+duration: None
+
+------
+Drone: 149
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968982
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982842
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997616
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012840
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026805
+end_time: None
+duration: None
+
+------
+Drone: 150
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.968994
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982868
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997647
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012887
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026836
+end_time: None
+duration: None
+
+------
+Drone: 151
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969014
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982895
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997677
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012915
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026862
+end_time: None
+duration: None
+
+------
+Drone: 152
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969025
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982922
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997705
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012944
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026892
+end_time: None
+duration: None
+
+------
+Drone: 153
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969037
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982947
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997732
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.012972
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026921
+end_time: None
+duration: None
+
+------
+Drone: 154
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969057
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.982974
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997763
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013002
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026952
+end_time: None
+duration: None
+
+------
+Drone: 155
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969069
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983000
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997788
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013029
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.026980
+end_time: None
+duration: None
+
+------
+Drone: 156
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969082
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983026
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997814
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013055
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027011
+end_time: None
+duration: None
+
+------
+Drone: 157
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969095
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983052
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997840
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013082
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027038
+end_time: None
+duration: None
+
+------
+Drone: 158
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969107
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983078
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997866
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013111
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027066
+end_time: None
+duration: None
+
+------
+Drone: 159
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969120
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983104
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997893
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013138
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027108
+end_time: None
+duration: None
+
+------
+Drone: 160
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969131
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983131
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997926
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013166
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027135
+end_time: None
+duration: None
+
+------
+Drone: 161
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969144
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983157
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997952
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013195
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027163
+end_time: None
+duration: None
+
+------
+Drone: 162
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969155
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983184
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.997979
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013223
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027191
+end_time: None
+duration: None
+
+------
+Drone: 163
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969169
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983270
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998006
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013249
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027229
+end_time: None
+duration: None
+
+------
+Drone: 164
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969180
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983387
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998031
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013278
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027257
+end_time: None
+duration: None
+
+------
+Drone: 165
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969194
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983431
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998057
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013305
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027284
+end_time: None
+duration: None
+
+------
+Drone: 166
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969207
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983465
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998084
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013333
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027310
+end_time: None
+duration: None
+
+------
+Drone: 167
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969220
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983497
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998111
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013361
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027337
+end_time: None
+duration: None
+
+------
+Drone: 168
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969234
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983528
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998138
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013389
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027364
+end_time: None
+duration: None
+
+------
+Drone: 169
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:07.969245
+end_time: 2023-11-24 13:02:08.070498
+duration: 0.101253
+
+id: 1
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:12.983557
+end_time: 2023-11-24 13:02:13.062111
+duration: 0.078554
+
+id: 2
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:17.998164
+end_time: 2023-11-24 13:02:18.048685
+duration: 0.050521
+
+id: 3
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:23.013416
+end_time: 2023-11-24 13:02:23.046857
+duration: 0.033441
+
+id: 4
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:28.027390
+end_time: 2023-11-24 13:02:28.096521
+duration: 0.069131
+
+------
+Drone: 170
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969258
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983589
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998190
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013444
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027417
+end_time: None
+duration: None
+
+------
+Drone: 171
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:07.969270
+end_time: 2023-11-24 13:02:08.214214
+duration: 0.244944
+
+id: 1
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:12.983618
+end_time: 2023-11-24 13:02:13.015249
+duration: 0.031631
+
+id: 2
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:17.998239
+end_time: 2023-11-24 13:02:18.075840
+duration: 0.077601
+
+id: 3
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:23.013469
+end_time: 2023-11-24 13:02:23.070782
+duration: 0.057313
+
+id: 4
+command: command
+response: b'ok'
+start time: 2023-11-24 13:02:28.027441
+end_time: 2023-11-24 13:02:28.115068
+duration: 0.087627
+
+------
+Drone: 172
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969282
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983647
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998289
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013496
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027466
+end_time: None
+duration: None
+
+------
+Drone: 173
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969298
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983674
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998315
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013523
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027489
+end_time: None
+duration: None
+
+------
+Drone: 174
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969309
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983706
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998342
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013551
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027513
+end_time: None
+duration: None
+
+------
+Drone: 175
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969324
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983733
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998367
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013579
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027537
+end_time: None
+duration: None
+
+------
+Drone: 176
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969335
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983760
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998393
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013607
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027562
+end_time: None
+duration: None
+
+------
+Drone: 177
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969347
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983790
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998418
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013633
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027586
+end_time: None
+duration: None
+
+------
+Drone: 178
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969361
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983816
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998443
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013661
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027610
+end_time: None
+duration: None
+
+------
+Drone: 179
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969372
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983845
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998470
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013687
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027638
+end_time: None
+duration: None
+
+------
+Drone: 180
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969388
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983871
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998497
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013715
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027665
+end_time: None
+duration: None
+
+------
+Drone: 181
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969400
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983900
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998524
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013742
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027691
+end_time: None
+duration: None
+
+------
+Drone: 182
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969414
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983930
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998551
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013769
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027717
+end_time: None
+duration: None
+
+------
+Drone: 183
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969425
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983959
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998578
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013794
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027743
+end_time: None
+duration: None
+
+------
+Drone: 184
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969437
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.983988
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998604
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013820
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027774
+end_time: None
+duration: None
+
+------
+Drone: 185
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969449
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984017
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998633
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013848
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027798
+end_time: None
+duration: None
+
+------
+Drone: 186
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969465
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984048
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998660
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013875
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027823
+end_time: None
+duration: None
+
+------
+Drone: 187
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969477
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984073
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998688
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013902
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027848
+end_time: None
+duration: None
+
+------
+Drone: 188
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969490
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984100
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998741
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013931
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027872
+end_time: None
+duration: None
+
+------
+Drone: 189
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969501
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984126
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998768
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013958
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027896
+end_time: None
+duration: None
+
+------
+Drone: 190
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969514
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984153
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998797
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.013985
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027937
+end_time: None
+duration: None
+
+------
+Drone: 191
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969525
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984182
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998823
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014013
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027963
+end_time: None
+duration: None
+
+------
+Drone: 192
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969540
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984209
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998850
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014041
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.027991
+end_time: None
+duration: None
+
+------
+Drone: 193
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969552
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984237
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998875
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014069
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028015
+end_time: None
+duration: None
+
+------
+Drone: 194
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969565
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984264
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998902
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014097
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028041
+end_time: None
+duration: None
+
+------
+Drone: 195
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969576
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984292
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998928
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014126
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028066
+end_time: None
+duration: None
+
+------
+Drone: 196
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969589
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984318
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998955
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014155
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028094
+end_time: None
+duration: None
+
+------
+Drone: 197
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969603
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984345
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.998987
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014181
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028119
+end_time: None
+duration: None
+
+------
+Drone: 198
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969616
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984372
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999016
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014208
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028144
+end_time: None
+duration: None
+
+------
+Drone: 199
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969628
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984399
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999042
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014234
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028169
+end_time: None
+duration: None
+
+------
+Drone: 200
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969642
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984425
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999070
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014260
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028194
+end_time: None
+duration: None
+
+------
+Drone: 201
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969653
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984451
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999095
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014288
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028218
+end_time: None
+duration: None
+
+------
+Drone: 202
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969666
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984479
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999122
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014315
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028243
+end_time: None
+duration: None
+
+------
+Drone: 203
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969677
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984506
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999148
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014342
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028266
+end_time: None
+duration: None
+
+------
+Drone: 204
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969690
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984532
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999176
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014368
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028461
+end_time: None
+duration: None
+
+------
+Drone: 205
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969701
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984558
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999203
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014396
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028507
+end_time: None
+duration: None
+
+------
+Drone: 206
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969715
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984584
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999231
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014422
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028539
+end_time: None
+duration: None
+
+------
+Drone: 207
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969726
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984610
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999256
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014449
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028568
+end_time: None
+duration: None
+
+------
+Drone: 208
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969740
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984636
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999282
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014477
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028598
+end_time: None
+duration: None
+
+------
+Drone: 209
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969751
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984663
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999375
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014499
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028626
+end_time: None
+duration: None
+
+------
+Drone: 210
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969766
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984689
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999504
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014520
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028655
+end_time: None
+duration: None
+
+------
+Drone: 211
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969777
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984716
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999554
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014540
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028682
+end_time: None
+duration: None
+
+------
+Drone: 212
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969791
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984742
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:17.999589
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014561
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028708
+end_time: None
+duration: None
+
+------
+Drone: 213
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969802
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984769
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001549
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014583
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028736
+end_time: None
+duration: None
+
+------
+Drone: 214
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969816
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984796
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001575
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014604
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028763
+end_time: None
+duration: None
+
+------
+Drone: 215
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969828
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984822
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001598
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014625
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028789
+end_time: None
+duration: None
+
+------
+Drone: 216
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969842
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984848
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001621
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014646
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028816
+end_time: None
+duration: None
+
+------
+Drone: 217
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969853
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984874
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001644
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014666
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028843
+end_time: None
+duration: None
+
+------
+Drone: 218
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969866
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984901
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001666
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014687
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028871
+end_time: None
+duration: None
+
+------
+Drone: 219
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969881
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984927
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001685
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014707
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028898
+end_time: None
+duration: None
+
+------
+Drone: 220
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969898
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984953
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001706
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014728
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028923
+end_time: None
+duration: None
+
+------
+Drone: 221
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969912
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.984980
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001725
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014748
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028950
+end_time: None
+duration: None
+
+------
+Drone: 222
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969926
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985006
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001747
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014769
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.028977
+end_time: None
+duration: None
+
+------
+Drone: 223
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969938
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985031
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001766
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014792
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029003
+end_time: None
+duration: None
+
+------
+Drone: 224
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969953
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985058
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001788
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014815
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029031
+end_time: None
+duration: None
+
+------
+Drone: 225
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969963
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985084
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001807
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014836
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029058
+end_time: None
+duration: None
+
+------
+Drone: 226
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969978
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985110
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001829
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014857
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029084
+end_time: None
+duration: None
+
+------
+Drone: 227
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.969993
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985133
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001850
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014878
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029110
+end_time: None
+duration: None
+
+------
+Drone: 228
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970005
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985158
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001872
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014899
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029137
+end_time: None
+duration: None
+
+------
+Drone: 229
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970019
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985183
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001893
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014919
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029163
+end_time: None
+duration: None
+
+------
+Drone: 230
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970034
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985207
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001916
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014939
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029189
+end_time: None
+duration: None
+
+------
+Drone: 231
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970048
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985227
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001935
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014958
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029216
+end_time: None
+duration: None
+
+------
+Drone: 232
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970060
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985248
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001956
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014979
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029243
+end_time: None
+duration: None
+
+------
+Drone: 233
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970074
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985268
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001975
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.014999
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029269
+end_time: None
+duration: None
+
+------
+Drone: 234
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970089
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985290
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.001996
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015020
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029295
+end_time: None
+duration: None
+
+------
+Drone: 235
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970105
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985310
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002017
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015039
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029321
+end_time: None
+duration: None
+
+------
+Drone: 236
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970119
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985331
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002038
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015060
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029365
+end_time: None
+duration: None
+
+------
+Drone: 237
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970135
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985351
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002059
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015081
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029390
+end_time: None
+duration: None
+
+------
+Drone: 238
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970149
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985371
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002078
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015101
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029415
+end_time: None
+duration: None
+
+------
+Drone: 239
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970164
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985391
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002097
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015120
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029440
+end_time: None
+duration: None
+
+------
+Drone: 240
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970180
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985411
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002118
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015142
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029466
+end_time: None
+duration: None
+
+------
+Drone: 241
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970193
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985430
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002138
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015162
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029493
+end_time: None
+duration: None
+
+------
+Drone: 242
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970209
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985450
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002156
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015183
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029516
+end_time: None
+duration: None
+
+------
+Drone: 243
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970224
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985471
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002178
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015206
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029542
+end_time: None
+duration: None
+
+------
+Drone: 244
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970239
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985491
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002199
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015227
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029567
+end_time: None
+duration: None
+
+------
+Drone: 245
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970253
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985510
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002218
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015248
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029592
+end_time: None
+duration: None
+
+------
+Drone: 246
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970269
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985532
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002239
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015267
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029619
+end_time: None
+duration: None
+
+------
+Drone: 247
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970284
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985551
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002260
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015288
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029645
+end_time: None
+duration: None
+
+------
+Drone: 248
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970299
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985572
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002281
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015307
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029672
+end_time: None
+duration: None
+
+------
+Drone: 249
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970315
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985592
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002306
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015326
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029697
+end_time: None
+duration: None
+
+------
+Drone: 250
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970330
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985613
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002325
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015345
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029723
+end_time: None
+duration: None
+
+------
+Drone: 251
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970345
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985633
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002345
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015365
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029747
+end_time: None
+duration: None
+
+------
+Drone: 252
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970359
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985664
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002366
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015384
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029773
+end_time: None
+duration: None
+
+------
+Drone: 253
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:02:07.970376
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2023-11-24 13:02:12.985689
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2023-11-24 13:02:18.002386
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2023-11-24 13:02:23.015404
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2023-11-24 13:02:28.029797
+end_time: None
+duration: None
+

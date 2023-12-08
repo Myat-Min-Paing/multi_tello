@@ -1,0 +1,70 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036586
+end_time: None
+duration: None
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036631
+end_time: None
+duration: None
+
+------
+Drone: 3
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036653
+end_time: None
+duration: None
+
+------
+Drone: 4
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036666
+end_time: None
+duration: None
+
+------
+Drone: 5
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036677
+end_time: None
+duration: None
+
+------
+Drone: 6
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036687
+end_time: None
+duration: None
+
+------
+Drone: 7
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:10:33.036696
+end_time: None
+duration: None
+

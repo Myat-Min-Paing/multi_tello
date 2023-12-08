@@ -1,0 +1,62 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-12-08 10:59:23.411763
+end_time: 2023-12-08 10:59:23.480357
+duration: 0.068594
+
+id: 1
+command: sn?
+response: b'0TQZJ26ED01DG3'
+start time: 2023-12-08 10:59:28.467743
+end_time: 2023-12-08 10:59:28.899698
+duration: 0.431955
+
+id: 2
+command: takeoff
+response: b'ok'
+start time: 2023-12-08 10:59:30.059244
+end_time: 2023-12-08 10:59:34.443771
+duration: 4.384527
+
+id: 3
+command: land
+response: b'ok'
+start time: 2023-12-08 10:59:36.126236
+end_time: 2023-12-08 10:59:38.497921
+duration: 2.371685
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-12-08 10:59:23.411711
+end_time: 2023-12-08 10:59:23.484485
+duration: 0.072774
+
+id: 1
+command: sn?
+response: b'0TQZJ25ED01CHC'
+start time: 2023-12-08 10:59:28.480303
+end_time: 2023-12-08 10:59:28.912293
+duration: 0.43199
+
+id: 2
+command: takeoff
+response: b'ok'
+start time: 2023-12-08 10:59:30.052958
+end_time: 2023-12-08 10:59:36.057213
+duration: 6.004255
+
+id: 3
+command: land
+response: b'ok'
+start time: 2023-12-08 10:59:38.542113
+end_time: 2023-12-08 10:59:41.068110
+duration: 2.525997
+

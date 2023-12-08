@@ -1,0 +1,9 @@
+scan 2
+correct_ip
+1=0TQZJ26ED01DG3
+2=0TQZJ25ED01CHC
+*>takeoff
+sync 10
+1>land
+sync 10
+2>land

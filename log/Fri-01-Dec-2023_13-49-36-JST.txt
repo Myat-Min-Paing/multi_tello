@@ -1,0 +1,20 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-12-01 13:49:36.771692
+end_time: 2023-12-01 13:49:36.868988
+duration: 0.097296
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: b'ok'
+start time: 2023-12-01 13:49:36.771739
+end_time: 2023-12-01 13:49:36.860095
+duration: 0.088356
+

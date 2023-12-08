@@ -1,0 +1,40 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:26:21.642814
+end_time: None
+duration: None
+
+------
+Drone: 2
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:26:21.642864
+end_time: None
+duration: None
+
+------
+Drone: 3
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:26:21.642885
+end_time: None
+duration: None
+
+------
+Drone: 4
+
+id: 0
+command: command
+response: None
+start time: 2023-11-24 13:26:21.642897
+end_time: None
+duration: None
+

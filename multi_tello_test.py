@@ -2,12 +2,12 @@
 import sys
 import time
 from tello_manager import *
-import Queue
+import queue as Queue
 import time
 import os
 import binascii
-reload(sys)
-sys.setdefaultencoding('utf-8')
+#reload(sys)
+#sys.setdefaultencoding('utf-8')
 
 def create_execution_pools(num):
     pools = []
@@ -43,7 +43,7 @@ def save_log(manager):
     if not os.path.exists('log'):
         try:
             os.makedirs('log')
-        except Exception, e:
+        except Exception:
             pass
 
     out = open('log/' + start_time + '.txt', 'w')
@@ -68,7 +68,7 @@ start_time = str(time.strftime("%a-%d-%b-%Y_%H-%M-%S-%Z", time.localtime(time.ti
 
 try:
     file_name = sys.argv[1]
-    f = open(file_name, "r")
+    f = open(file_name, "r", encoding='utf-8')
     commands = f.readlines()
 
     tello_list = []
@@ -90,7 +90,7 @@ try:
                 manager.find_avaliable_tello(num_of_tello)
                 tello_list = manager.get_tello_list()
                 execution_pools = create_execution_pools(num_of_tello)
-
+                print(f"tello list {tello_list}")
                 for x in range(len(tello_list)):
                     t1 = Thread(target=drone_handler, args=(tello_list[x], execution_pools[x]))
                     ip_fid_dict[tello_list[x].tello_ip] = x
@@ -113,6 +113,8 @@ try:
                 # push command to pools               
                 for tello_id in id_list:
                     tmp_sn = id_sn_dict[tello_id]
+                    print(f'snp_id_dict {sn_ip_dict}')
+                    print(f'tmp_sn {tmp_sn}')
                     reflec_ip = sn_ip_dict[tmp_sn]
                     fid = ip_fid_dict[reflec_ip]
                     execution_pools[fid].put(action)
@@ -157,7 +159,7 @@ try:
                 while not all_got_response(manager):
                     time.sleep(0.5) 
                 for tello_log in manager.get_log().values():
-                    sn = str(tello_log[-1].response)
+                    sn = str(tello_log[-1].response.decode('utf-8'))
                     tello_ip = str(tello_log[-1].drone_ip)
                     sn_ip_dict[sn] = tello_ip  
                     
@@ -165,11 +167,11 @@ try:
                 drone_id = int(command.partition('=')[0])
                 drone_sn = command.partition('=')[2]
                 id_sn_dict[drone_id-1] = drone_sn
-                print ('[IP_SN_FID]:Tello_IP:%s------Tello_SN:%s------Tello_fid:%d\n'%(sn_ip_dict[drone_sn],drone_sn,drone_id))
+                #print ('[IP_SN_FID]:Tello_IP:%s------Tello_SN:%s------Tello_fid:%d\n'%(sn_ip_dict[drone_sn],drone_sn,drone_id))
                 #print id_sn_dict[drone_id]
             elif 'sync' in command:
                 timeout = float(command.partition('sync')[2])
-                print '[Sync_And_Waiting]Sync for %s seconds \n' % timeout
+                print ('[Sync_And_Waiting]Sync for %s seconds \n' % timeout)
                 time.sleep(1)
                 try:
                     start = time.time()
@@ -179,15 +181,15 @@ try:
                         if check_timeout(start, now, timeout):
                             raise RuntimeError
 
-                    print '[All_Commands_Send]All queue empty and all command send,continue\n'
+                    print ('[All_Commands_Send]All queue empty and all command send,continue\n')
                     # wait till all responses are received
                     while not all_got_response(manager):
                         now = time.time()
                         if check_timeout(start, now, timeout):
                             raise RuntimeError
-                    print '[All_Responses_Get]All response got, continue\n'
+                    print ('[All_Responses_Get]All response got, continue\n')
                 except RuntimeError:
-                    print '[Quit_Sync]Fail Sync:Timeout exceeded, continue...\n'
+                    print ('[Quit_Sync]Fail Sync:Timeout exceeded, continue...\n')
 
 
     # wait till all commands are executed
@@ -203,7 +205,7 @@ try:
     save_log(manager)
 
 except KeyboardInterrupt:
-    print '[Quit_ALL]Multi_Tello_Task got exception. Sending land to all drones...\n'
+    print ('[Quit_ALL]Multi_Tello_Task got exception. Sending land to all drones...\n')
     for ip in manager.tello_ip_list:
         manager.socket.sendto('land'.encode('utf-8'), (ip, 8889))
 
